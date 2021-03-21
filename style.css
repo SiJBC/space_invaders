@@ -1,0 +1,10 @@
+#center{
+   margin-left: 450px;
+}
+
+
+canvas{
+    position: fixed;
+    margin: 0 auto;
+    background-color: black;
+}
